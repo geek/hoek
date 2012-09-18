@@ -1,6 +1,4 @@
-hoek
-====
+#Sven Hoek
 
-General purpose node utilities
+![Sven!](https://raw.github.com/walmartlabs/hoek/sven/svenhoek.png)]
 
-[![Build Status](https://secure.travis-ci.org/walmartlabs/hoek.png)](http://travis-ci.org/walmartlabs/hoek)
